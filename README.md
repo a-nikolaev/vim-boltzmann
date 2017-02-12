@@ -11,6 +11,4 @@ A color scheme for Vim text editor.
 
 ![](http://i.imgur.com/m41uo4i.png)
 
-![](http://i.imgur.com/lJqxyXt.png)
-
 ![](http://i.imgur.com/ntpDQpn.png)
